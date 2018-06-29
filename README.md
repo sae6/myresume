@@ -11,6 +11,6 @@
     2015.9——至今  河南理工大学  土地资源管理专业
 ## 获奖经历
     大学生英语四级证书
-[Acer宏碁菁英创意人才计划文案组全国15强](https://mp.weixin.qq.com/s/gSqr7XVjzj6wUE81jx6I8w)
+[Acer宏碁菁英创意人才计划文案组全国15强](https://github.com/sae6/myresume/blob/master/640.webp.jpg)
 ## 个人技能
     1.能掌握基本的办公软件操作;
