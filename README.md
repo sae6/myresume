@@ -25,7 +25,8 @@
 获奖经历
 =====
     大学生英语四级证书
-[Acer宏碁菁英创意人才计划文案组全国15强](https://github.com/sae6/myresume/blob/master/640.webp.jpg)
+
+ [Acer宏碁菁英创意人才计划文案组全国15强](https://github.com/sae6/myresume/blob/master/640.webp.jpg)
 
 个人技能
 =====
