@@ -46,4 +46,4 @@
 
 个人技能
 =====
-    掌握office三件套的相关操作;
+    掌握办公软件office（word,excel,ppt）的基本操作;
