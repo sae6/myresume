@@ -39,7 +39,7 @@
     
 获奖经历
 =====
-    大学生英语四级证书
+ [CET6](https://github.com/sae6/myresume/blob/master/%E5%85%AD%E7%BA%A7%E6%88%90%E7%BB%A9%E5%8D%95.jpg)
 
  [Acer宏碁菁英创意人才计划文案组全国15强](https://github.com/sae6/myresume/blob/master/640.webp.jpg)
 
