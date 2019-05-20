@@ -41,6 +41,7 @@
     工作内容：
     主要负责第三次国土调查中的地类图斑的核对以及取证
     工作。
+    
 获奖经历
 =====
  [CET6](https://github.com/sae6/myresume/blob/master/%E5%85%AD%E7%BA%A7%E6%88%90%E7%BB%A9%E5%8D%95.jpg)
