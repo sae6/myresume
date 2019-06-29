@@ -4,7 +4,7 @@
     性别：男
     民族：汉族
     出生年月：1996-10-09
-    政治面貌：团员
+    政治面貌：共青团员
     电话：18739346148
     邮箱：1574015804@qq.com
     居住地：河南-长垣
@@ -13,7 +13,7 @@
 教育背景
 =====
     2015.9——2019.7    河南理工大学    土地资源管理
-    [在校修读课程（请点击查看）] (https://github.com/sae6/myresume/blob/master/pef.jpg)
+    [修读课程](https://github.com/sae6/myresume/blob/master/pef.jpg)
 
 校园经历
 =====
