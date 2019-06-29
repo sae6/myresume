@@ -13,7 +13,7 @@
 教育背景
 =====
     2015.9——2019.7    河南理工大学    土地资源管理
-    [在校修读课程（请点击查看）](https://github.com/sae6/myresume/blob/master/pef.jpg)
+    [在校修读课程（请点击查看）] (https://github.com/sae6/myresume/blob/master/pef.jpg)
 
 校园经历
 =====
